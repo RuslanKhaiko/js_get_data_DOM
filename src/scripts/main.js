@@ -2,7 +2,7 @@
 
 // write your code here
 
-const populationElements = document.querySelectorAll('population');
+const populationElements = document.querySelectorAll('span.population');
 
 let total = 0;
 let count = 0;
